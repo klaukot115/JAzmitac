@@ -1,0 +1,9 @@
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\bin\Debug\Projekt JA Klaudia Kot.exe.config
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\bin\Debug\Projekt JA Klaudia Kot.exe
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\bin\Debug\Projekt JA Klaudia Kot.pdb
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\obj\Debug\Projekt JA Klaudia Kot.csprojResolveAssemblyReference.cache
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\obj\Debug\Projekt_JA_Klaudia_Kot.Form1.resources
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\obj\Debug\Projekt_JA_Klaudia_Kot.Properties.Resources.resources
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\obj\Debug\Projekt JA Klaudia Kot.csproj.GenerateResource.Cache
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\obj\Debug\Projekt JA Klaudia Kot.exe
+C:\Users\ideapad\Desktop\SEM 5\JA\githyb\JA_K.Kot_KontrastBitmapy\Zrodla\Projekt JA Klaudia Kot\Projekt JA Klaudia Kot\obj\Debug\Projekt JA Klaudia Kot.pdb
